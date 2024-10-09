@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Qi Luo, a last year postgraduate at SUSTech. Previously, I received my bachelor’s degree at XDU.
 - 👀 I’m interested in LLM, SE, AI, etc.
 - 🌱 I’m currently working on research related to downstream tasks in software engineering using LLMs.
-- 💞️ I’m looking for a PhD position in 2025 fall.
 - 📫 Please feel free to contact me at rocky_lq[at]icloud[dot]com
   
 <div class='container'>
